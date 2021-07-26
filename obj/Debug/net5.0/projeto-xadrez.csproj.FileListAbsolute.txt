@@ -1,0 +1,16 @@
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/projeto-xadrez
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/projeto-xadrez.deps.json
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/projeto-xadrez.runtimeconfig.json
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/projeto-xadrez.runtimeconfig.dev.json
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/projeto-xadrez.dll
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/ref/projeto-xadrez.dll
+/home/andre/projetos/dotnet/projeto-xadrez/bin/Debug/net5.0/projeto-xadrez.pdb
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.csproj.AssemblyReference.cache
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.AssemblyInfoInputs.cache
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.AssemblyInfo.cs
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.csproj.CoreCompileInputs.cache
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.dll
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/ref/projeto-xadrez.dll
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.pdb
+/home/andre/projetos/dotnet/projeto-xadrez/obj/Debug/net5.0/projeto-xadrez.genruntimeconfig.cache
